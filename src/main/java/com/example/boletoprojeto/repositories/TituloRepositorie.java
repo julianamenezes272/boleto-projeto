@@ -9,4 +9,6 @@ import java.util.UUID;
 @Repository
 public interface TituloRepositorie extends JpaRepository<TituloModel, UUID> {
 
+
+
 }
